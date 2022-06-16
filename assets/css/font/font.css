@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Anton';
+  src: url('Anton-Regular.eot');
+  src: url('Anton-Regular.woff2') format('woff2'),
+       url('Anton-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
